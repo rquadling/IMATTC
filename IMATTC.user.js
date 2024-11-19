@@ -61,7 +61,7 @@ $(function() {
     + ".banner-preview .modal-body {background-color: #222;}"
     + ".banner-preview .row {display: flex; flex-direction: row-reverse; flex-wrap:wrap-reverse!important}"
     + ".banner-preview img {border-radius: 50%;border: 3px solid goldenrod;}"
-    + ".banner-preview .col-xs-2 {padding-bottom: 15px;}";
+    + ".banner-preview .col-xs-2 {padding: 0px;}";
 
   newCssRules += ".mission-list-item-published 				{background-image: none; background: #001a00; border-color: darkgreen;color: lightgreen;}"
     + ".list .mission .mission-title-published 	{color: lightgreen;}"
