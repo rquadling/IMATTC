@@ -59,7 +59,7 @@ $(function() {
     + ".ui-state-highlight { border: 2px solid #5afbea; background: #1f4549; margin-top: 10px;display: block;padding: 0 15px; min-height: 100px;}"
     + ".modal {color: black;}"
     + ".banner-preview .modal-body {background-color: #222;}"
-    + ".banner-preview .row {display: flex; flex-direction: row-reverse; flex-wrap:wrap-reverse!important}"
+    + ".banner-preview .row {display: flex; flex-direction: row-reverse; flex-wrap:wrap-reverse!important; margin-left: 15px; margin-right: 15px;}"
     + ".banner-preview img {border-radius: 50%;border: 3px solid goldenrod;}"
     + ".banner-preview .col-xs-2 {padding: 0px;}";
 
